@@ -70,4 +70,5 @@ class Consumer(private val name: String) {
 
 
 
-Ответ <a href ="https://github.com/dm174/sync/otvet.md">Ответ</a>
+Ответ <a href ="https://github.com/dm174/sync/blob/main/otvet.md">Ответ</a>
+Ответ ![](/blob/main/otvet.md)
